@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+numpy
+opencv-python
+mediapipe
+python-multipart
+websockets
+python-dotenv
+
+# Optional (for performance / troubleshooting)
+# opencv-python-headless
+# aiofiles
